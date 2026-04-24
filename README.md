@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&text=Siddanth%20Gaikwad&fontSize=52&fontColor=ffffff&color=0:0A0F1F,50:10192E,100:1B2A41" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Hello%20There%20%F0%9F%91%8B%20%20Siddanth%20Gaikwad&fontSize=42&fontAlignY=38&fontColor=ffffff&animation=fadeIn&color=0:050816,25:091540,50:00C2FF,75:7B2CFF,100:0B1020" />
 </p>
 
 <p align="center">
