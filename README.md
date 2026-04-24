@@ -1,106 +1,94 @@
 <h1 align="center">Hi 👋, I'm Siddanth Gaikwad</h1>
-<h3 align="center">Full Stack Developer • AI/ML Enthusiast • Computer Science Engineer</h3>
+
+<h3 align="center">
+Full Stack Developer • AI/ML Enthusiast • Computer Science Engineer
+</h3>
 
 <p align="center">
-  <a href="https://github.com/siddanthgaikwad">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Applications;Passionate+About+AI+%26+Machine+Learning;Turning+Ideas+Into+Reality;Always+Learning+New+Technologies" />
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Modern+Web+Applications;Passionate+About+AI+%26+Machine+Learning;Turning+Ideas+Into+Real+Products;Always+Learning+Always+Growing" />
+</p>
+
+<p align="center">
+<a href="https://github.com/siddanthgaikwad">
+<img src="https://img.shields.io/github/followers/siddanthgaikwad?label=Followers&style=for-the-badge&color=0D1117&labelColor=00C2FF"/>
+</a>
+<a href="https://github.com/siddanthgaikwad">
+<img src="https://img.shields.io/github/stars/siddanthgaikwad?affiliations=OWNER&style=for-the-badge&color=0D1117&labelColor=8A2BE2"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=siddanthgaikwad&style=for-the-badge&color=blueviolet"/>
 </p>
 
 ---
 
-<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="370" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-## 👨‍💻 About Me
+## 💫 About Me
 
-- 🎓 B.Tech CSE Student at **Lovely Professional University**
-- 💻 Passionate about **Software Development, AI/ML & Problem Solving**
-- 🚀 Building real-world impactful projects
-- 🌱 Currently learning **Advanced MERN Stack, DevOps & Machine Learning**
-- 🤝 Open to collaborations on **Open Source Projects**
-- 🎯 Goal: Become a top-tier **Software Engineer**
-- ⚡ Motto: **Consistency beats talent when talent doesn't work**
+- 🎓 B.Tech in Computer Science Engineering  
+- 💻 Focused on **Full Stack Development & Scalable Applications**
+- 🤖 Strong interest in **Artificial Intelligence & Machine Learning**
+- 🚀 Building projects that solve real-world problems
+- 🌱 Currently learning **Advanced MERN Stack, DevOps & System Design**
+- 🤝 Open to **Internships, Collaborations & Open Source**
+- 🎯 Goal: Become an exceptional **Software Engineer**
+- ⚡ Mindset: **Discipline + Consistency = Growth**
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/siddanthgaikwad/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/siddanthgaikwad" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/siddanthgaikwad/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:siddgaikwad000@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/__siddxx/" target="_blank">
+<a href="https://github.com/siddanthgaikwad">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/__siddxx/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## 🚀 Tech Stack
+## ⚒️ Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,react,nodejs,express,mongodb,mysql,html,css,bootstrap,git,github,docker,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,react,nodejs,express,mongodb,mysql,html,css,bootstrap,git,github,docker,linux,vscode&theme=dark" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
-### 🏨 InstaStay – Hotel Booking Platform
-Full-stack hotel booking website with authentication, hotel search, booking system, admin dashboard & payments.
+### 🏨 InstaStay — Hotel Booking Platform
+Modern hotel booking platform with secure login, room booking, payments, search filters and admin dashboard.
 
-**Tech:** MERN Stack, JWT, Stripe, Cloudinary
+**Tech:** MERN Stack • JWT • Stripe • Cloudinary
 
----
+### 🏥 Real-Time Hospital Bed Monitoring
+AI-based monitoring system to detect bed occupancy using surveillance video.
 
-### 🏥 Real-Time Hospital Bed Monitoring System
-AI-powered bed occupancy monitoring using surveillance feeds with object detection.
+**Tech:** Python • YOLOv4 • OpenCV
 
-**Tech:** Python, YOLOv4, OpenCV
+### 🤖 Next Word Prediction
+Smart NLP text prediction system built using deep learning models.
 
----
-
-### 🤖 Next Word Prediction Model
-Built an NLP model using LSTM networks for smart text prediction/autocomplete.
-
-**Tech:** Python, TensorFlow, Keras, NLP
+**Tech:** Python • TensorFlow • Keras • LSTM
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Growth Focus
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=siddanthgaikwad&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=siddanthgaikwad&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddanthgaikwad&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 Certifications
-
-- Deep Learning – NPTEL  
-- Introduction to Internet of Things – NPTEL  
-- DevOps & Software Engineering – IBM  
-- Software Engineering Job Simulation – Forage  
-- DSA using C/C++ – Udemy  
-
----
-
-## ✨ Quote I Follow
-
-<p align="center">
-<b>"Discipline creates the future you dream about."</b>
-</p>
+```text
+✔ Data Structures & Algorithms
+✔ Full Stack Production Projects
+✔ Machine Learning Skills
+✔ Internship Preparation
+✔ Clean Code & Best Practices
