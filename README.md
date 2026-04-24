@@ -51,16 +51,16 @@ Deep learning NLP model for predictive typing and autocomplete.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/siddanthgaikwad/">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/siddanthgaikwad">
-    <img src="https://img.shields.io/badge/GITHUB-PROFILE-111111?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:siddgaikwad000@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-REACH%20ME-EA4335?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/__siddxx/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
