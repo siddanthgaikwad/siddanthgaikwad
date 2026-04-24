@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=Siddanth%20Gaikwad&fontSize=48&fontColor=ffffff&color=0:0B0F19,50:111827,100:1F2937" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&text=Siddanth%20Gaikwad&fontSize=52&fontColor=ffffff&color=0:0A0F1F,50:10192E,100:1B2A41" />
 </p>
 
 <p align="center">
-  <b>Software Engineer • Full Stack Developer • AI/ML Enthusiast</b>
+  <b>AI/ML Enthusiast • Full Stack Developer • Software Engineer</b>
 </p>
 
 <p align="center">
-  Building scalable products and solving real-world problems through code.
+  Building intelligent solutions, scalable products, and real-world impact through code.
 </p>
 
 <p align="center">
@@ -21,49 +21,49 @@
 
 ## About
 
-Computer Science Engineer focused on building clean, scalable, and impactful software.  
-Strong interest in backend systems, full stack development, and artificial intelligence.  
-Driven by consistency, learning, and long-term growth.
+Computer Science Engineer passionate about Artificial Intelligence, Machine Learning, and modern software development.  
+Focused on building smart applications, scalable systems, and solving real-world problems.  
+Always learning, improving, and creating meaningful solutions.
 
 ---
 
-## Tech Stack
+## Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nodejs,express,mongodb,mysql,html,css,docker,git,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,java,javascript,react,nodejs,express,mongodb,mysql,html,css,docker,git,linux&theme=dark" />
 </p>
 
 ---
 
-## Selected Work
+## Projects
+
+### Hospital Bed Monitoring
+AI-powered real-time occupancy monitoring using computer vision.
 
 ### InstaStay
-Full stack hotel booking platform with authentication, payments, admin dashboard, and modern UI.
-
-### Hospital Bed Monitoring System
-Real-time occupancy detection using computer vision and AI.
+Hotel booking platform with authentication, payments, admin dashboard, and responsive UI.
 
 ### Next Word Prediction
 Deep learning NLP model for predictive typing and autocomplete.
 
 ---
 
-## Current Focus
+## Focus
 
-- Advanced Full Stack Development  
-- Data Structures & Algorithms  
-- Scalable Backend Systems  
-- AI / Machine Learning  
-- Internship & Growth Opportunities  
+- Artificial Intelligence & Machine Learning  
+- Full Stack Engineering  
+- DSA & Problem Solving  
+- Backend Architecture  
+- Internship Opportunities  
 
 ---
 
-## Philosophy
+## Contact
+
+📩 **siddgaikwad000@gmail.com**
+
+---
 
 <p align="center">
-  <i>“Build quietly. Let results speak loudly.”</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0B0F19,50:111827,100:1F2937" />
+<i>Build quietly. Grow daily.</i>
 </p>
